@@ -1,0 +1,157 @@
+mixpanel
+@e-
+
+
+
+PROBLEM 1
+Most of the world will make
+decisions by either guessing or
+
+using their gut. They will be either
+lucky or wrong.
+
+
+
+PROBLEM 2
+Companies on mobile & web are
+measuring bullshit metrics like
+
+page views and installs. It’s really
+hard to be really sophisticated.
+
+
+
+SOLUTION
+Mixpanel has built analytics software
+for product and marketing. As we
+
+continue to penetrate organizations,
+we will build software for sales and
+finance next.
+
+
+
+MISSION
+
+Help the world learn from its data.
+
+
+
+COMPETITIVE ADVANTAGE
+In 2010, we built the most
+sophisticated analytics database
+
+engine to answer questions that
+existing technology could not
+answer. It’s the reason we are
+winning.
+
+
+
+MONTHLY RECURRING REVENUE OVER TIME
+
+1012 to 2013 growth rate
+
+3 to 2014 growth
+
+
+
+Sales KPIs
+
+2015 target: % YoY growth- _ M (conservative), 63 sales reps
+Avg revenue per customer:$ —_/mo; we have a wide distribution
+Leads per month: ; 26% of new customers are touched by sales
+
+New customers per month: — ; 4x spendin 5 months, x in 12 months
+
+Avg monthly revenue churn rate: %, — % in Sept.
+
+Started 2014 with 5 quota carrying sales reps, will end with 33
+
+Sales payback rate is around 6 months; we will get this down in 2015
+
+
+
+Marketing
+
+leads - most are organically acquired
+% of customers that sign up will integrate
+
+% will become paid customers
+
+Our best marketing programs are freemium usage, world-class customer
+support, PR, and education
+
+August snapshot:
+General: $36K
+PR: $5K
+Advertising: $42K
+Total: $83K
+
+
+
+2015/2016 expansion plan
+
+8x sales headcount and rapidly race towards distribution
+
+Improve churn rates by expanding the CSM team by x - reduce churn
+under % per month
+
+Reduce sales ramp time by 30-50% via sales enablement
+Build out leadership team: CFO, HR, CMO
+
+Expand customer facing teams like support, sales eng, etc. to
+accommodate new customers
+
+Double headcount every 6-9 months
+
+Double down on marketing to widen our lead flow to lower cost per
+acq. long-term
+
+Expand into NY in 2015, international in 2016
+
+
+
+Competition
+
+Startups
+
+KISSmetrics
+Localytics
+Upsight
+Amplitude
+Heap Analytics
+
+Incumbents
+
+Google Analytics
+
+Omniture
+
+
+
+Financing history
+
+Y Combinator
+
+Max Levchin,
+Michael Birch
+
+Sequoia Capital,
+
+Keith Rabois, Max
+
+Levchin, Michael
+Birch
+
+$10.25M
+
+Series A
+
+Andreessen
+
+Horowitz, Marc
+
+Benioff, David
+Sacks
+
